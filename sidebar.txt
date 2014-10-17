@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dih:home|Door43 (dih)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dih|d43-dih repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dih/archive/master.zip|d43-dih.zip]]
+
+**Recent Changes**
+{{changes>ns = dih}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dih|Ethnologue data]]
+
